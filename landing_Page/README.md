@@ -1,8 +1,8 @@
-This is a project with basic HTML and CSS, including:
-1. A header section with top navigator bar and a intro info section 
-2. Four rectangular to display info 
+This project features a responsive web page built using basic HTML and CSS.
+1. A header section with top navigator bar and an introductory info section 
+2. Four rectangular boxes to display info 
 3. A quote section 
-4. A sign up box with a button 
-5. A bottom bar with copyright
+4. A call-to-action section with a sign up button
+5. A footer section
 
-> The contents changes with the window size  
+> The webpage is designed to be responsive to fit different window sizes.   
