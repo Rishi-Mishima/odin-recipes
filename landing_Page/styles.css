@@ -164,7 +164,7 @@ img {
 
 .greySection {
     width: 100vw;
-    height: 400px;
+    min-height: 400px;
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
@@ -175,6 +175,8 @@ img {
 }
 
 #quote {
+    flex-wrap: nowrap;
+
     width: 50vw;
     font-size: 35px;
     color: #1f2937;
@@ -196,6 +198,7 @@ img {
 .signUpRec {
     width: 90vh;
     height: 150px;
+    min-width: 800px;
     margin: 100px;
     padding: 50px 0;
     background-color: #3882f6;

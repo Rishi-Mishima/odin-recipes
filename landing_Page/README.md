@@ -5,6 +5,4 @@ This is a project with basic HTML and CSS, including:
 4. A sign up box with a button 
 5. A bottom bar with copyright
 
-> The codes shows in the CSS has bugs if the window size changes  
-
-Bugs will be fixed in the future 
+> The contents changes with the window size  
